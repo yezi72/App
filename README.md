@@ -1,2 +1,2 @@
 # App
-one app based on vue.js
+one app building on vue.js 2.0
